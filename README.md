@@ -1,2 +1,2 @@
 # MqttTestRelease
-For downloading apk
+For downloading the 「MQTT test」.apk file.
